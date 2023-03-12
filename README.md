@@ -1,16 +1,15 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)]
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)
 <h1 align="center">Hi 👋, I'm Sayed Ammar Hassan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedammar7&label=Profile%20views&color=0e75b6&style=flat" alt="sayedammar7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedammar7" alt="sayedammar7" /></a> </p>
 
-- 🔭 I’m currently working on **Calculator**
+- 🔭 I’m currently working on **20 days Challenge**
 
-- 🌱 I’m currently learning **JavaScript , React , NodeJS etc**
+- 🌱 I’m currently learning **JavaScript , React , NodeJS , express etc**
 
-- 📝 I regularly write articles on [https://hashnode.com/@SayedAmmar7](https://hashnode.com/@SayedAmmar7)
 
 - 📫 How to reach me **sayedammarhassan@gmail.com**
 
