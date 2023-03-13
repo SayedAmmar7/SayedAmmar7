@@ -1,6 +1,7 @@
 
 ### <div align="center">
-  ![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)
+  ![Jonathan Patterson](https://user-images.githubusercontent.com/124479802/224804205-54ca7268-05d5-494c-9710-31aaa907e6bb.png)
+
   <h1> Hi 👋, I'm Sayed Ammar Hassan, a passionate full stack developer from India 👨‍💻.</h1>
 </div>  
  
