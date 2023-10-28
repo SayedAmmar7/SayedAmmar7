@@ -6,10 +6,10 @@
 </div>  
  
 
-- 🔭 I’m currently working on [20 Days Challenge](https://github.com/SayedAmmar7/20-Days-Challenge)  
+- 🔭 I’m currently working on [Next-app](https://github.com/SayedAmmar7/Next-app.git)  
   
 
-- 🌱 I’m currently learning React and NodeJs  
+- 🌱 I’m currently learning Nextjs 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
